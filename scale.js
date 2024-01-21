@@ -475,6 +475,15 @@ Scale.extendedSaffirSimpson = new Scale({
             stormNom: 'your bitch is now mine',
             stat: 'bitchynigglys',
             cName: 'tu pene esta perdido'
+        },
+        {
+            threshold: 74069,
+            color: ['rgb(200,200,200)','#000000'],
+            symbol: 'AUGHHHHHHHHH',
+            arms: 0,
+            stormNom: 'bussercum',
+            stat: 'funnynick is gone',
+            cName: 'woowwwwww thats nice'
         }
     ]
 });
