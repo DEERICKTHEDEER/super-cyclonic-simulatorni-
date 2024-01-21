@@ -479,7 +479,7 @@ Scale.extendedSaffirSimpson = new Scale({
         {
             threshold: 74069,
             color: ['rgb(200,200,200)','#000000'],
-            symbol: 'AUGHHHHHHHHH',
+            symbol: 'AMBATUKAMM',
             arms: 0,
             stormNom: 'bussercum',
             stat: 'funnynick is gone',
