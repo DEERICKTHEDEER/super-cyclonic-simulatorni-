@@ -335,12 +335,6 @@ Scale.extendedSaffirSimpson = new Scale({
             cName: 'Category 1'
         },
         {
-            threshold: 83,
-            color: ['rgb(240,170,20)','#ffe775'],
-            symbol: '2',
-            cName: 'Category 2'
-        },
-        {
             threshold: 96,
             color: ['rgb(240,20,20)','#ffc140'],
             symbol: '3',
